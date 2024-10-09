@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StreamShift-master",
+    "\\StreamShift-master\\src",
+    "\\StreamShift-master\\src\\layers",
+    "\\StreamShift-master\\src\\layers\\StreamShift.Domain",
+    "\\StreamShift-master\\src\\layers\\StreamShift.Infrastructure",
+    "\\StreamShift-master\\src\\layers\\StreamShift.Persistence",
+    "\\StreamShift-master\\src\\layers\\StreamShift.Persistence\\Context",
+    "\\StreamShift-master\\src\\services",
+    "\\StreamShift-master\\src\\services\\StreamShift.Web"
+  ],
+  "SelectedNode": "\\StreamShift-master\\StreamShift.sln",
+  "PreviewInSolutionExplorer": false
+}

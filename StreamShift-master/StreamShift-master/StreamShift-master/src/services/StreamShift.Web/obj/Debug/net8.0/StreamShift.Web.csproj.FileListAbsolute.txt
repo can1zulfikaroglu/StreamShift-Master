@@ -1,0 +1,1 @@
+C:\Users\can.zulfikaroglu\source\repos\StreamShift-master\StreamShift-master\src\services\StreamShift.Web\bin\Debug\net8.0\StreamShift.Web.exe
